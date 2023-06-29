@@ -2,7 +2,7 @@
 
 ## :information_desk_person: About me
 
-+ I'm an active game developer for 5 years, i like shooting photograps and gratest younger sister of all time <sub>(you can ask [him](https://github.com/yagiziskirik))</sub>
++ I'm an active game developer for 5 years, i like shooting photograps and i'm the gratest younger brother of all time <sub>(you can ask [him](https://github.com/yagiziskirik))</sub>
 
 
 ## ✨My stats✨ <sub><sub>it is not looking good</sub></sub>
