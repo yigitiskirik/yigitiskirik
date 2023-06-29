@@ -1,6 +1,6 @@
 # Hello everynyan
 
-![hello](https://tenor.com/bwl6E.gif)
+![hello](https://media.tenor.com/VUZpnT4pesUAAAAd/azumanga-daioh-hello-everyone.gif)
 
 ## :information_desk_person: About me
 
