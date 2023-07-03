@@ -1,10 +1,10 @@
-# Hello everynyan
+# Hello everynyan 😺
 
 [![hello](https://media.tenor.com/VUZpnT4pesUAAAAd/azumanga-daioh-hello-everyone.gif)](https://www.youtube.com/watch?v=afqBosG1CEI)
 
 ## :information_desk_person: About me
 
-+ I'm an active game developer for 5 years, i like shooting photograps and i'm the gratest younger brother of all time <sub>(you can ask [him](https://github.com/yagiziskirik))</sub>
++ I'm an active game developer for 5 years. I like taking photographs and capable of editing videos. Besides that i'm the gratest younger brother of all time <sub>(you can ask [him](https://github.com/yagiziskirik))</sub>
 
 
 ## ✨My stats✨ <sub><sub>it is not looking good</sub></sub>
@@ -27,6 +27,17 @@
 ![Csharp Badge](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp)
 ![Lua Badge](https://img.shields.io/badge/lua-darkblue?style=flat&logo=lua)
 ![markdown Badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)
+
+## Programs I use
+![Static Badge](https://img.shields.io/badge/VsCode-blue?style=flat&logo=visualstudiocode)
+![Static Badge](https://img.shields.io/badge/Photoshop-%23001E36?style=flat&logo=adobephotoshop)
+![Static Badge](https://img.shields.io/badge/PremierePro-%239984ad?style=flat&logo=adobepremierepro)
+![Static Badge](https://img.shields.io/badge/AfterEffects-%23001E36?style=flat&logo=adobeaftereffects)
+![Static Badge](https://img.shields.io/badge/DaVinciResolve-orange?style=flat)
+![Static Badge](https://img.shields.io/badge/sfxr-%23FFEEBE?style=flat)
+
+
+
 
 
 
