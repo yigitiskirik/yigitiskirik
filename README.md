@@ -31,8 +31,8 @@
 ## Programs I use
 ![Static Badge](https://img.shields.io/badge/VsCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/Photoshop-%23001E36?style=for-the-badge&logo=adobephotoshop)
-![Static Badge](https://img.shields.io/badge/PremierePro-%239984ad?style=for-the-badge&logo=adobepremierepro)
 ![Static Badge](https://img.shields.io/badge/AfterEffects-%23001E36?style=for-the-badge&logo=adobeaftereffects)
+![Static Badge](https://img.shields.io/badge/PremierePro-%239984ad?style=for-the-badge&logo=adobepremierepro)
 ![Static Badge](https://img.shields.io/badge/DaVinciResolve-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/sfxr-%23FFEEBE?style=for-the-badge)
 
