@@ -8,7 +8,7 @@
 
 
 ## ✨My stats✨ <sub><sub>it is not looking good</sub></sub>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitiskirik&icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitiskirik)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🕓Time spend programming
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yigitiskirik&theme=radical)
