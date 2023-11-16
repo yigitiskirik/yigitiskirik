@@ -37,7 +37,7 @@
 ![Static Badge](https://img.shields.io/badge/sfxr-%23FFEEBE?style=for-the-badge)
 
 ## Contact me 
-![Static Badge](https://img.shields.io/badge/instagram-instagram?style=for-the-badge&logo=instagram&logoColor=white&color=%23C13584&link=https%3A%2F%2Finstagram.com%2Fyigitiskirik%3Figshid%3DNGVhN2U2NjQ0Yg%253D%253D%26utm_source%3Dqr)
+![Static Badge](https://img.shields.io/badge/instagram-instagram?style=for-the-badge&logo=instagram&logoColor=white&color=%23C13584&link=https%3A%2F%2Finstagram.com%2Fyigitiskirik%3Figshid%3DNGVhN2U2NjQ0Yg%253D%253D%26utm_source%3Dqr)(https://instagram.com/yigitiskirik?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)
 ![Static Badge](https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyigitiskirik%3Ftrk%3Dcontact-info)
 
 
