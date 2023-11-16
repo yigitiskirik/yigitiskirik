@@ -36,6 +36,9 @@
 ![Static Badge](https://img.shields.io/badge/DaVinciResolve-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/sfxr-%23FFEEBE?style=for-the-badge)
 
+## Contact me 
+![Static Badge](https://img.shields.io/badge/%40yigitiskirik-instagram?style=for-the-badge&logo=Instagram&label=instagram&labelColor=darkorange&color=black&link=https%3A%2F%2Finstagram.com%2Fyigitiskirik%3Figshid%3DNGVhN2U2NjQ0Yg%253D%253D%26utm_source%3Dqr)
+![Static Badge](https://img.shields.io/badge/linkedin-linkedin?style=for-the-badge&logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyigitiskirik%3Ftrk%3Dcontact-info)
 
 
 
