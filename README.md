@@ -11,7 +11,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitiskirik&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🕓Time spend programming
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yigitiskirik&theme=radical)
+
 
 ## 🎮Favorite game so far
 <a href="https://yigitiskirik.itch.io/bombs-dices-and-flowers">Bombs, Dice and Flowers by yigitiskirik</a>
